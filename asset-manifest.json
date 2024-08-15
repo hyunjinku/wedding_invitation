@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding_invitation/static/css/main.c4689422.css",
-    "main.js": "/wedding_invitation/static/js/main.ba04eef7.js",
+    "main.js": "/wedding_invitation/static/js/main.c94809ec.js",
     "static/js/453.7e3e3be8.chunk.js": "/wedding_invitation/static/js/453.7e3e3be8.chunk.js",
     "static/media/15.png": "/wedding_invitation/static/media/15.d2b04d3b1af187d0ea26.png",
     "static/media/Eulyoo1945-Regular.ttf": "/wedding_invitation/static/media/Eulyoo1945-Regular.22154b183d5ef3de225d.ttf",
@@ -34,11 +34,11 @@
     "static/media/timesnewroman.ttf": "/wedding_invitation/static/media/timesnewroman.f85717dad92d60284052.ttf",
     "index.html": "/wedding_invitation/index.html",
     "main.c4689422.css.map": "/wedding_invitation/static/css/main.c4689422.css.map",
-    "main.ba04eef7.js.map": "/wedding_invitation/static/js/main.ba04eef7.js.map",
+    "main.c94809ec.js.map": "/wedding_invitation/static/js/main.c94809ec.js.map",
     "453.7e3e3be8.chunk.js.map": "/wedding_invitation/static/js/453.7e3e3be8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4689422.css",
-    "static/js/main.ba04eef7.js"
+    "static/js/main.c94809ec.js"
   ]
 }
