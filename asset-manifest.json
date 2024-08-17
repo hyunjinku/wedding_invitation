@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding_invitation/static/css/main.ecc5e483.css",
-    "main.js": "/wedding_invitation/static/js/main.eadffe20.js",
+    "main.css": "/wedding_invitation/static/css/main.284540ff.css",
+    "main.js": "/wedding_invitation/static/js/main.72f8327d.js",
     "static/js/453.7e3e3be8.chunk.js": "/wedding_invitation/static/js/453.7e3e3be8.chunk.js",
     "static/media/Eulyoo1945-Regular.ttf": "/wedding_invitation/static/media/Eulyoo1945-Regular.22154b183d5ef3de225d.ttf",
     "static/media/mom_to_daughter.woff": "/wedding_invitation/static/media/mom_to_daughter.a0897a3c026f9fca7b50.woff",
@@ -33,12 +33,12 @@
     "static/media/map.png": "/wedding_invitation/static/media/map.f26fe349bee69b8cf83d.png",
     "static/media/timesnewroman.ttf": "/wedding_invitation/static/media/timesnewroman.f85717dad92d60284052.ttf",
     "index.html": "/wedding_invitation/index.html",
-    "main.ecc5e483.css.map": "/wedding_invitation/static/css/main.ecc5e483.css.map",
-    "main.eadffe20.js.map": "/wedding_invitation/static/js/main.eadffe20.js.map",
+    "main.284540ff.css.map": "/wedding_invitation/static/css/main.284540ff.css.map",
+    "main.72f8327d.js.map": "/wedding_invitation/static/js/main.72f8327d.js.map",
     "453.7e3e3be8.chunk.js.map": "/wedding_invitation/static/js/453.7e3e3be8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecc5e483.css",
-    "static/js/main.eadffe20.js"
+    "static/css/main.284540ff.css",
+    "static/js/main.72f8327d.js"
   ]
 }
