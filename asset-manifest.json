@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding_invitation/static/css/main.e3030aad.css",
-    "main.js": "/wedding_invitation/static/js/main.5b65bbe1.js",
+    "main.js": "/wedding_invitation/static/js/main.adfe1e77.js",
     "static/js/453.7e3e3be8.chunk.js": "/wedding_invitation/static/js/453.7e3e3be8.chunk.js",
     "static/media/Eulyoo1945-Regular.ttf": "/wedding_invitation/static/media/Eulyoo1945-Regular.22154b183d5ef3de225d.ttf",
     "static/media/mom_to_daughter.woff": "/wedding_invitation/static/media/mom_to_daughter.a0897a3c026f9fca7b50.woff",
@@ -9,6 +9,7 @@
     "static/media/song.mp3": "/wedding_invitation/static/media/song.a859a4b37abf77f56fa8.mp3",
     "static/media/22.jpg": "/wedding_invitation/static/media/22.1bab3fa22511572087d6.jpg",
     "static/media/4.jpg": "/wedding_invitation/static/media/4.d2a922f5edc62c85adad.jpg",
+    "static/media/31.jpg": "/wedding_invitation/static/media/31.6549df44bd179a8bb252.jpg",
     "static/media/3.jpg": "/wedding_invitation/static/media/3.a261898458473efaa963.jpg",
     "static/media/8.jpg": "/wedding_invitation/static/media/8.b35ce6fc33e1779f4250.jpg",
     "static/media/2.jpg": "/wedding_invitation/static/media/2.1e6cece07c113e171792.jpg",
@@ -19,14 +20,19 @@
     "static/media/14.jpg": "/wedding_invitation/static/media/14.73fb813540d212bacd2a.jpg",
     "static/media/15.png": "/wedding_invitation/static/media/15.94f2f8f85870a989cb1d.png",
     "static/media/19.jpg": "/wedding_invitation/static/media/19.96a89fb72dbaa61c24fa.jpg",
+    "static/media/24.jpg": "/wedding_invitation/static/media/24.edc921b000d17a2a1576.jpg",
+    "static/media/28.jpg": "/wedding_invitation/static/media/28.326b01b59a3f3b3f0c89.jpg",
+    "static/media/25.jpg": "/wedding_invitation/static/media/25.bf352957be64224fab6a.jpg",
+    "static/media/26.jpg": "/wedding_invitation/static/media/26.a2c845cc86ff6a5a062b.jpg",
     "static/media/9.jpg": "/wedding_invitation/static/media/9.1ac553e0d720460b77ad.jpg",
-    "static/media/17.jpg": "/wedding_invitation/static/media/17.615860a382fa8848fd79.jpg",
+    "static/media/29.jpg": "/wedding_invitation/static/media/29.1be934b7d3c923309d30.jpg",
     "static/media/18.jpg": "/wedding_invitation/static/media/18.d226a106c3e63472493f.jpg",
     "static/media/12.jpg": "/wedding_invitation/static/media/12.8bce96c5b1801ae07dcb.jpg",
+    "static/media/27.jpg": "/wedding_invitation/static/media/27.2708fd2751f7e4896006.jpg",
     "static/media/11.jpg": "/wedding_invitation/static/media/11.80b935398e20a37fb07d.jpg",
     "static/media/13.jpg": "/wedding_invitation/static/media/13.6737391d5f0994c8f10b.jpg",
+    "static/media/30.jpg": "/wedding_invitation/static/media/30.438112753c5f6c46e41e.jpg",
     "static/media/21.jpg": "/wedding_invitation/static/media/21.5257993534621024361b.jpg",
-    "static/media/5.jpg": "/wedding_invitation/static/media/5.51a996f71b4ef2861ab7.jpg",
     "static/media/7.jpg": "/wedding_invitation/static/media/7.ce69b12ed699314bb2b2.jpg",
     "static/media/1.jpg": "/wedding_invitation/static/media/1.2ab0efdc4652b4d62e17.jpg",
     "static/media/bodoni.ttf": "/wedding_invitation/static/media/bodoni.02c93cf452fe2dc74f65.ttf",
@@ -34,11 +40,11 @@
     "static/media/timesnewroman.ttf": "/wedding_invitation/static/media/timesnewroman.f85717dad92d60284052.ttf",
     "index.html": "/wedding_invitation/index.html",
     "main.e3030aad.css.map": "/wedding_invitation/static/css/main.e3030aad.css.map",
-    "main.5b65bbe1.js.map": "/wedding_invitation/static/js/main.5b65bbe1.js.map",
+    "main.adfe1e77.js.map": "/wedding_invitation/static/js/main.adfe1e77.js.map",
     "453.7e3e3be8.chunk.js.map": "/wedding_invitation/static/js/453.7e3e3be8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3030aad.css",
-    "static/js/main.5b65bbe1.js"
+    "static/js/main.adfe1e77.js"
   ]
 }
